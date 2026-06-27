@@ -1,5 +1,7 @@
 # Home Automation Sample: Control LED Lights using ESP32 with Blynk IoT App
 
+<img width="1190" height="634" alt="image" src="https://github.com/user-attachments/assets/0164c61f-619f-4617-891a-84732fd88db9" />
+
 A professional implementation of a cloud-controlled lighting system using the ESP32 microcontroller and the Blynk 2.0 platform.
 
 ## 1. Project Overview
