@@ -35,7 +35,7 @@ char ssid[] = "YOUR_WIFI_SSID";
 char pass[] = "YOUR_WIFI_PASSWORD";
 ```
 
-'![Connection Success](assets/serial-monitor.png)'
+'![Connection Success](assets/serial-monitor.webp)'
 
 ## 6. Acknowledgments
 - Implementation guide based on the [Sritu Hobby Blynk tutorial](https://srituhobby.com/how-to-set-up-the-new-blynk-app-with-an-esp32-board/).
