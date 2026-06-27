@@ -33,6 +33,7 @@ Ensure the **Blynk** library is installed in your Arduino IDE. Update your `main
 char auth[] = "YOUR_AUTH_TOKEN";
 char ssid[] = "YOUR_WIFI_SSID";
 char pass[] = "YOUR_WIFI_PASSWORD";
+```
 
 '![Connection Success](assets/serial-monitor.png)'
 
