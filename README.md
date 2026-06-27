@@ -12,7 +12,7 @@ This project demonstrates the integration of physical hardware with an IoT cloud
 - Breadboard & Jumper wires
 
 ## 3. Circuit Configuration
-'![Circuit Setup](assets/circuit.webp)`
+'![Circuit Setup](assets/circuit.webp)'
 
 ## 4. Software Implementation
 ### Blynk Web Dashboard Setup
@@ -24,7 +24,7 @@ This project demonstrates the integration of physical hardware with an IoT cloud
 1. Download the **Blynk IoT app** from the App Store or Play Store.
 2. Log in and configure the mobile dashboard layout by adding a button widget linked to your Datastream.
 
-`![Blynk Dashboard](assets/dashboard.webp)`
+'![Blynk Dashboard](assets/dashboard.webp)'
 
 ## 5. Firmware
 Ensure the **Blynk** library is installed in your Arduino IDE. Update your `main.ino` with your unique credentials.
